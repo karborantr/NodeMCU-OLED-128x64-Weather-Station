@@ -1,0 +1,5 @@
+Adafruit_GFX
+Adafruit_SSD1306
+NTPClient
+TimeLib : https://github.com/geekfactory/TimeLib
+ArduinoJson
